@@ -1,1 +1,1 @@
-![clownfish card](./images/clownfish.webp)
+![clownfish card](./images/screenshot_0.webp)
